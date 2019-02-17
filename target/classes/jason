@@ -1,0 +1,21 @@
+[
+
+  
+	{
+ 		"patientId" : 1234,
+ 		"sex": "male",
+ 		"state": MI,
+ 		"name": "John Smith",
+ 		"age": 56
+ 	}
+   ,
+  
+	{
+ 		"patientId" : 1235,
+ 		"sex": "female",
+ 		"state": OH,
+ 		"name": "Jane Smith",
+ 		"age": 47
+ 	}
+   
+  ]

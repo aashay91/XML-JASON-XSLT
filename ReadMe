@@ -1,0 +1,6 @@
+This project uses XSLT to convert xml to json format. It also uses helper xsl file which has required map.
+
+Directions to run:
+	1.There is static main function to run application in src/main/driver.
+	2.You can change the input and output file name.
+	3.You will find the files in src/main/resources folder.
